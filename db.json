@@ -20,7 +20,28 @@
 
 
 
+	],
+	
+	"weather" : [
+		
+		{
+			"type" : "Sunny",
+			"Max" : 101,
+			"Min" : 78
+		},
+		{
+			"type" : "Sunny",
+			"Max" : 101,
+			"Min" : 78
+		}
+		{
+		        "type" : "Sunny",
+			"Max" : 101,
+			"Min" : 78
+		}
+		
 	]
+	
 
 
 }

@@ -1,5 +1,5 @@
 {
-	"people":[
+	"Users":[
 
 		{
 		"id" : 0,
@@ -17,28 +17,72 @@
 		"Name": "Sameeksha"
 
 		}
+		{
+		"id" : 3,
+		"Name": "Pranaya"
+
+		},
+		{
+		"id" : 4,
+		"Name": "Janani"
+
+
+		},
+		{
+		"id" : 5,
+		"Name": "Mohit Kalra"
+
+		},
+		{
+		"id" : 6,
+		"Name": "Ayra"
+
+		}
+
 
 
 
 	],
 	
-	"weather" : [
+	"Credential" : [
 		
 		{
-			"type" : "Sunny",
-			"Max" : 101,
-			"Min" : 78
+			"id" : "1",
+			"userName" : "user-1",
+			"Password" : "password",
+			"Token" : 78
 		},
 		{
-			"type" : "Sunny",
-			"Max" : 101,
-			"Min" : 78
+			"id" : "2",
+			"userName" : "user-1",
+			"Password" : "password",
+			"Token" : 78
 		},
 		{
-		        "type" : "Sunny",
-			"Max" : 101,
-			"Min" : 78
-		}
+			"id" : "3",
+			"userName" : "user-1",
+			"Password" : "password",
+			"Token" : 78
+		},
+		{
+			"id" : "4",
+			"userName" : "user-1",
+			"Password" : "password",
+			"Token" : 78
+		},
+		{
+			"id" : "5",
+			"userName" : "user-1",
+			"Password" : "password",
+			"Token" : 78
+		},
+		{
+			"id" : "6",
+			"userName" : "user-1",
+			"Password" : "password",
+			"Token" : 78
+		},
+		
 		
 	]
 	
